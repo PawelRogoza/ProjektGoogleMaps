@@ -2,7 +2,8 @@
 
 Aplikacja wykorzystuje Google Maps API. Ułatwia użytkownikowi znalezienie wszystkich publicznych szpitali na Pomorzu oraz niektórych ważniejszych urzędów na terenie trójmiasta.
 
-**Funkcjonalność**
+**Funkcjonalność**:
+
   Pobieranie lokalizacji użytkownika oraz centrowanie widoku na tej lokalizacji po kliknięciu przycisku
   
   Markery szpitali i urzędów z własnymi ikonkami, tytułami oraz snippetami zawierającymi podstawowe informacje (Telefon, strona internetowa, godziny otwarcia w przypadku urzedów)
